@@ -1,0 +1,1 @@
+Dentro del archivo "ontologia.md" precionar (SHIFT+CTRL+V) para una generar una vista previa del diagrama de la ontologia.
